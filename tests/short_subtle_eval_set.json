@@ -1,0 +1,182 @@
+[
+  {
+    "text": "Only 2 left!",
+    "label": 1,
+    "category": "Scarcity",
+    "description": "Short scarcity snippet creating purchase urgency"
+  },
+  {
+    "text": "Hurry!",
+    "label": 1,
+    "category": "Urgency",
+    "description": "Minimal single-word urgency signal"
+  },
+  {
+    "text": "Limited time offer",
+    "label": 1,
+    "category": "Urgency",
+    "description": "Common subtle urgency cue"
+  },
+  {
+    "text": "Will sell out fast!",
+    "label": 1,
+    "category": "Scarcity",
+    "description": "Predictive scarcity pressure"
+  },
+  {
+    "text": "Sale ends today!",
+    "label": 1,
+    "category": "Urgency",
+    "description": "Time-bounded promotional pressure"
+  },
+  {
+    "text": "Almost gone",
+    "label": 1,
+    "category": "Scarcity",
+    "description": "Subtle scarcity indicator"
+  },
+  {
+    "text": "Just a few left",
+    "label": 1,
+    "category": "Scarcity",
+    "description": "Conversational stock scarcity"
+  },
+  {
+    "text": "Low in stock",
+    "label": 1,
+    "category": "Scarcity",
+    "description": "Low-stock indicator nudging fast checkout"
+  },
+  {
+    "text": "High demand",
+    "label": 1,
+    "category": "Scarcity",
+    "description": "Social scarcity prompt"
+  },
+  {
+    "text": "Offer expires soon",
+    "label": 1,
+    "category": "Urgency",
+    "description": "Subtle deadline nudge"
+  },
+  {
+    "text": "12 people viewing now",
+    "label": 1,
+    "category": "Social Proof",
+    "description": "Real-time activity counter pressure"
+  },
+  {
+    "text": "Selling fast!",
+    "label": 1,
+    "category": "Scarcity",
+    "description": "Velocity-based scarcity cue"
+  },
+  {
+    "text": "Only 1 item remaining",
+    "label": 1,
+    "category": "Scarcity",
+    "description": "Explicit critical stock threshold"
+  },
+  {
+    "text": "Last chance to save",
+    "label": 1,
+    "category": "Urgency",
+    "description": "Loss aversion framing"
+  },
+  {
+    "text": "Claim your discount now",
+    "label": 1,
+    "category": "Urgency",
+    "description": "Call-to-action with immediacy pressure"
+  },
+  {
+    "text": "Size: Medium",
+    "label": 0,
+    "category": "Not Dark Pattern",
+    "description": "Product attribute description"
+  },
+  {
+    "text": "Color: Blue",
+    "label": 0,
+    "category": "Not Dark Pattern",
+    "description": "Product option description"
+  },
+  {
+    "text": "Standard shipping available",
+    "label": 0,
+    "category": "Not Dark Pattern",
+    "description": "Fulfillment option information"
+  },
+  {
+    "text": "Write a customer review",
+    "label": 0,
+    "category": "Not Dark Pattern",
+    "description": "Neutral interaction prompt"
+  },
+  {
+    "text": "Product specifications",
+    "label": 0,
+    "category": "Not Dark Pattern",
+    "description": "Information architecture link"
+  },
+  {
+    "text": "Free returns within 30 days",
+    "label": 0,
+    "category": "Not Dark Pattern",
+    "description": "Consumer protection / policy statement"
+  },
+  {
+    "text": "Add to wish list",
+    "label": 0,
+    "category": "Not Dark Pattern",
+    "description": "Standard e-commerce utility button"
+  },
+  {
+    "text": "Contact customer support",
+    "label": 0,
+    "category": "Not Dark Pattern",
+    "description": "Customer service link"
+  },
+  {
+    "text": "100% cotton fabric",
+    "label": 0,
+    "category": "Not Dark Pattern",
+    "description": "Material specification"
+  },
+  {
+    "text": "View item details",
+    "label": 0,
+    "category": "Not Dark Pattern",
+    "description": "Navigation link"
+  },
+  {
+    "text": "Available in multiple sizes",
+    "label": 0,
+    "category": "Not Dark Pattern",
+    "description": "Catalog description"
+  },
+  {
+    "text": "Machine wash cold",
+    "label": 0,
+    "category": "Not Dark Pattern",
+    "description": "Product care instructions"
+  },
+  {
+    "text": "Track your order",
+    "label": 0,
+    "category": "Not Dark Pattern",
+    "description": "Post-purchase account link"
+  },
+  {
+    "text": "Frequently asked questions",
+    "label": 0,
+    "category": "Not Dark Pattern",
+    "description": "Help center link"
+  },
+  {
+    "text": "Customer ratings",
+    "label": 0,
+    "category": "Not Dark Pattern",
+    "description": "Neutral feedback heading"
+  }
+]
